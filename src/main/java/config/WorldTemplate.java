@@ -1,4 +1,4 @@
-package templates;
+package main.java.config;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;

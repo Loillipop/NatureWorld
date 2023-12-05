@@ -1,4 +1,4 @@
-package model.props;
+package main.java.model.props;
 
 public enum MovementType {
     UP,

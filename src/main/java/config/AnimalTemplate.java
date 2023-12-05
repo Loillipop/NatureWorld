@@ -1,9 +1,9 @@
-package templates;
+package main.java.config;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.experimental.FieldDefaults;
-import model.props.AnimalType;
+import main.java.model.props.AnimalType;
 import java.util.Map;
 
 @Getter

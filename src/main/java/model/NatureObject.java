@@ -1,9 +1,9 @@
-package model;
+package main.java.model;
 
 import lombok.*;
 import lombok.experimental.FieldDefaults;
-import model.props.AnimalType;
-import templates.LivenesTemplate;
+import main.java.model.props.AnimalType;
+import main.java.config.LivenesTemplate;
 import java.math.BigDecimal;
 
 @Getter
